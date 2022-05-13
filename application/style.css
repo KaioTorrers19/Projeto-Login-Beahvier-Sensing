@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0;
+}
+
+body{
+    height: 1024px;
+    width: 780px;
+    background-color: #eeeeee;
+    
+}
+
+img{
+    margin-left: 100px;
+}
+
+#background{
+    background-color: #ffff;
+    height: 1024px;
+    width: 780px;
+}
+
+#form-login{
+    padding-left: 30px;
+    padding-top: 60px;
+}
+
+#inputEmail3{
+    margin-bottom: 20px;
+}
