@@ -68,7 +68,7 @@ main{
 }
 
 #form-login{
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     display: flex;
     flex-direction: column;
     margin-top: 50px;
@@ -87,7 +87,6 @@ main{
     margin-bottom: 20px;
     padding-left: 10px;
     font-size: 20px;
-    font-weight: bold;
     border: 0;
 }
 
@@ -97,6 +96,3 @@ main{
     border: 0;
 }
 
-@media screen and (max-width:570px){
-
-}
