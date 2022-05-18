@@ -25,6 +25,6 @@ if($result->num_rows < 1)
 	echo "Credenciais incorretas, tente novamente!";
 }
 else{
-	header('Location: http://localhost/Projeto-Login-Beahvier-Sensing/application/dashboards.html');
+	header('Location: http://localhost/sensing/application/dashboards.html');
 }
 ?>
