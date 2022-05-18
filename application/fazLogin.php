@@ -25,6 +25,6 @@ if($result->num_rows < 1)
 	echo "Credenciais incorretas, tente novamente!";
 }
 else{
-	header('Location: http://localhost/sensing/application/dashboards.html');
+	header('Location: https://sensing.beeid.com.br/sensing/application/dashboards.html');
 }
 ?>
