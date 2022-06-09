@@ -23,6 +23,7 @@ body{
     -moz-box-shadow:    6px 6px 10px 0px rgba(50, 50, 50, 0.36);
     box-shadow:         6px 6px 10px 0px rgba(50, 50, 50, 0.36);
 }
+<<<<<<< HEAD
 
 .form-select:focus{
     border: #010101 0.5px ;
@@ -55,3 +56,5 @@ justify-content: flex-end;
 .confirm{
     display: inline;
 }
+=======
+>>>>>>> 0d93b20b44aa3a572399bec83019db35f266b2b7
