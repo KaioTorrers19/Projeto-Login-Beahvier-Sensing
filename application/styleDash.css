@@ -1,3 +1,7 @@
+body{
+    margin-top: 15px;
+}
+
 .row{
     justify-content: center;
 
@@ -20,5 +24,34 @@
     box-shadow:         6px 6px 10px 0px rgba(50, 50, 50, 0.36);
 }
 
+.form-select:focus{
+    border: #010101 0.5px ;
+    border-style: solid ;
+    border-radius: 5px;
+    box-shadow: 6px 6px 10px 0px #010101 ;
+}
+
+.btn.btn-primary:focus{
+    border: #010101 0.5px ;
+    border-style: solid ;
+    border-radius: 5px;
+    box-shadow: 6px 6px 10px 0px #010101 ;
+}
 
 
+
+.logo-ambev{
+    width: 100%;
+}
+
+.logo-ambev img{
+    width: 100px;
+}
+
+#logo-ambev{
+justify-content: flex-end;
+}
+
+.confirm{
+    display: inline;
+}

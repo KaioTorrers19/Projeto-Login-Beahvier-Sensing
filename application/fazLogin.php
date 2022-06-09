@@ -22,9 +22,9 @@ $result = $con->query($conn);
 
 if($result->num_rows < 1)
 {
-	echo "Credenciais incorretas, tente novamente!";
+	header('Location: index.html');
 }
 else{
-	header('Location: https://sensing.beeid.com.br/sensing/application/dashboards.html');
+	header('Location: https://sensing.beeid.com.br/dashboards.html');
 }
 ?>
